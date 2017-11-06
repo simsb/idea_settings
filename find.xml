@@ -1,18 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>sqlMap*.x</mask>
-      <mask>sqlMap*.xm</mask>
-      <mask>sqlM*.xml</mask>
-      <mask>sqlMa*.xml</mask>
-      <mask>sqlMap*.xml</mask>
-      <mask>sqlxmlMap*.</mask>
-      <mask>j</mask>
       <mask>ja</mask>
       <mask>java</mask>
       <mask>.java</mask>
@@ -22,7 +19,6 @@
       <mask>sqlmap*.xml</mask>
       <mask>*.xl</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
@@ -32,10 +28,18 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>s</mask>
+      <mask>sq</mask>
+      <mask>sql</mask>
+      <mask>sqlM</mask>
+      <mask>sqlMa</mask>
+      <mask>sqlMap</mask>
+      <mask>sqlMap*</mask>
     </recentFileMasks>
   </component>
 </application>
