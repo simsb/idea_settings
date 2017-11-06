@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="hb" type="Handlebars/Mustache" />
+      <mapping ext="hscform" type="XML" />
     </extensionMap>
   </component>
 </application>
