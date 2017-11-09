@@ -7,9 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xslt" />
     <recentFileMasks>
-      <mask>ja</mask>
-      <mask>java</mask>
       <mask>.java</mask>
       <mask>*.xsf</mask>
       <mask>s*.xml</mask>
@@ -17,12 +16,9 @@
       <mask>sqlmap*.xml</mask>
       <mask>*.xl</mask>
       <mask>*.js</mask>
-      <mask>*.jav</mask>
       <mask>*.xsd</mask>
-      <mask>*.xs</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
@@ -34,10 +30,15 @@
       <mask>sqlMap</mask>
       <mask>sqlMap*</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsl</mask>
+      <mask>*.xslt</mask>
     </recentFileMasks>
   </component>
 </application>
