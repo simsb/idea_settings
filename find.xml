@@ -27,17 +27,17 @@
       <mask>sqlMap</mask>
       <mask>sqlMap*</mask>
       <mask>*</mask>
-      <mask>*.jav</mask>
       <mask>*.xs</mask>
       <mask>*.xslt</mask>
       <mask>*.xsl</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
