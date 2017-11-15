@@ -11,7 +11,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/JohnMurray/learn-scala-worksheets.git" />
+          <option name="url" value="git@git.corelogic.local:stuart.roebuck/mosaic-sbt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
