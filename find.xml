@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.xsf</mask>
       <mask>s*.xml</mask>
@@ -12,8 +13,6 @@
       <mask>sqlmap*.xml</mask>
       <mask>*.xl</mask>
       <mask>*.xsd</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
@@ -28,14 +27,16 @@
       <mask>*.xs</mask>
       <mask>*.xslt</mask>
       <mask>*.xsl</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
