@@ -5,13 +5,13 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xsd" />
     <recentFileMasks>
       <mask>*.xsf</mask>
       <mask>s*.xml</mask>
       <mask>sql*.xml</mask>
       <mask>sqlmap*.xml</mask>
       <mask>*.xl</mask>
-      <mask>*.xsd</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
@@ -23,19 +23,20 @@
       <mask>sqlMap</mask>
       <mask>sqlMap*</mask>
       <mask>*</mask>
-      <mask>*.xs</mask>
       <mask>*.xslt</mask>
       <mask>*.xsl</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
