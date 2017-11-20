@@ -5,23 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Controller.java" />
     <recentFileMasks>
-      <mask>*.xsf</mask>
-      <mask>s*.xml</mask>
-      <mask>sql*.xml</mask>
-      <mask>sqlmap*.xml</mask>
-      <mask>*.xl</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
-      <mask>s</mask>
-      <mask>sq</mask>
-      <mask>sql</mask>
-      <mask>sqlM</mask>
-      <mask>sqlMa</mask>
-      <mask>sqlMap</mask>
-      <mask>sqlMap*</mask>
       <mask>*</mask>
       <mask>*.xslt</mask>
       <mask>*.xsl</mask>
@@ -36,7 +21,22 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
+      <mask>*contro.java</mask>
+      <mask>*contr.java</mask>
+      <mask>*cont.java</mask>
+      <mask>*con.java</mask>
+      <mask>*co.java</mask>
+      <mask>*c.java</mask>
       <mask>*.java</mask>
+      <mask>*C.java</mask>
+      <mask>*Co.java</mask>
+      <mask>*Con.java</mask>
+      <mask>*Cont.java</mask>
+      <mask>*Contr.java</mask>
+      <mask>*Contro.java</mask>
+      <mask>*Control.java</mask>
+      <mask>*Controlle.java</mask>
+      <mask>*Controller.java</mask>
     </recentFileMasks>
   </component>
 </application>
