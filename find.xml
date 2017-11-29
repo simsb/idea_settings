@@ -5,13 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="LockingS" />
+    <option name="FILE_MASK" value="*.xsd" />
     <recentFileMasks>
-      <mask>*c.java</mask>
-      <mask>*.java</mask>
-      <mask>*C.java</mask>
-      <mask>*Co.java</mask>
-      <mask>*Con.java</mask>
       <mask>*Cont.java</mask>
       <mask>*Contr.java</mask>
       <mask>*Contro.java</mask>
@@ -37,6 +32,11 @@
       <mask>Lockin</mask>
       <mask>Locking</mask>
       <mask>LockingS</mask>
+      <mask>x</mask>
+      <mask>xs</mask>
+      <mask>xsd</mask>
+      <mask>*xsd</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
