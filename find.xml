@@ -5,12 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xsd" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*Cont.java</mask>
-      <mask>*Contr.java</mask>
-      <mask>*Contro.java</mask>
-      <mask>*Control.java</mask>
       <mask>*Controlle.java</mask>
       <mask>*Controller.java</mask>
       <mask>*</mask>
@@ -37,6 +33,10 @@
       <mask>xsd</mask>
       <mask>*xsd</mask>
       <mask>*.xsd</mask>
+      <mask>*.xs</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
