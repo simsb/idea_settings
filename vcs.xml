@@ -22,6 +22,10 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git-projects" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="MIGRATED" value="true" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
