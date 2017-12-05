@@ -6,6 +6,7 @@
   </action>
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.MaximizeEditingCell" />
+  <action id="ConvertJavaToKotlin" />
   <action id="ExtractFunctionToScope" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -33,4 +34,8 @@
   <action id="GotoCustomRegion" />
   <action id="IntroduceFunctionalParameter" />
   <action id="ShowProjectStructureSettings" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
 </keymap>
