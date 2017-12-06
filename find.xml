@@ -5,23 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*Controller.java" />
     <recentFileMasks>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>L</mask>
-      <mask>Loncking</mask>
-      <mask>Lonckin</mask>
-      <mask>Loncki</mask>
-      <mask>Lonck</mask>
-      <mask>Lonc</mask>
-      <mask>Lon</mask>
-      <mask>Lo</mask>
-      <mask>Loc</mask>
-      <mask>Lock</mask>
-      <mask>Locki</mask>
-      <mask>Lockin</mask>
-      <mask>Locking</mask>
       <mask>LockingS</mask>
       <mask>x</mask>
       <mask>xs</mask>
@@ -33,10 +18,25 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.C</mask>
+      <mask>*.Co</mask>
+      <mask>*.Con</mask>
+      <mask>*.Cont</mask>
+      <mask>*.Contr</mask>
+      <mask>*.Contro</mask>
+      <mask>*.Control</mask>
+      <mask>*.Controll</mask>
+      <mask>*.Controlle</mask>
+      <mask>*.Controller</mask>
+      <mask>*.Controller.</mask>
+      <mask>*.Controller.j</mask>
+      <mask>*.Controller.ja</mask>
+      <mask>*.Controller.java</mask>
+      <mask>*Controller.java</mask>
     </recentFileMasks>
   </component>
 </application>
