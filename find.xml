@@ -5,15 +5,14 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>LockingS</mask>
       <mask>x</mask>
       <mask>xs</mask>
       <mask>xsd</mask>
       <mask>*xsd</mask>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
@@ -36,6 +35,8 @@
       <mask>*.Controller.ja</mask>
       <mask>*.Controller.java</mask>
       <mask>*Controller.java</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
