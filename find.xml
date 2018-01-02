@@ -2,20 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*xsd</mask>
-      <mask>*.xsd</mask>
-      <mask>*.xs</mask>
-      <mask>*.C</mask>
-      <mask>*.Co</mask>
-      <mask>*.Con</mask>
-      <mask>*.Cont</mask>
-      <mask>*.Contr</mask>
-      <mask>*.Contro</mask>
       <mask>*.Control</mask>
       <mask>*.Controll</mask>
       <mask>*.Controlle</mask>
@@ -26,17 +15,26 @@
       <mask>*.Controller.java</mask>
       <mask>*Controller.java</mask>
       <mask>.java</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*Test.java</mask>
+      <mask>*Tes.java</mask>
+      <mask>*Te.java</mask>
+      <mask>*T.java</mask>
+      <mask>.xml</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*asp*.java</mask>
+      <mask>*as*.java</mask>
+      <mask>*a*.java</mask>
+      <mask>**.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
