@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.Controller</mask>
       <mask>*.Controller.</mask>
       <mask>*.Controller.j</mask>
       <mask>*.Controller.ja</mask>
@@ -15,17 +14,10 @@
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*asp*.java</mask>
       <mask>*as*.java</mask>
       <mask>*a*.java</mask>
       <mask>**.java</mask>
-      <mask>*.java</mask>
       <mask>*T.java</mask>
       <mask>*Te.java</mask>
       <mask>*Tes.java</mask>
@@ -33,7 +25,15 @@
       <mask>x</mask>
       <mask>xm</mask>
       <mask>xml</mask>
+      <mask>*.js</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
