@@ -1,13 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*RESTController.java" />
+    <option name="FILE_MASK" value="*.xsd" />
     <recentFileMasks>
-      <mask>*.propert</mask>
-      <mask>*.proper</mask>
-      <mask>*.prope</mask>
       <mask>*.prop</mask>
       <mask>*.pro</mask>
       <mask>*.pr</mask>
@@ -15,8 +14,6 @@
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
       <mask>*Con</mask>
@@ -35,6 +32,11 @@
       <mask>*REController.java</mask>
       <mask>*RESController.java</mask>
       <mask>*RESTController.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
