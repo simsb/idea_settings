@@ -5,8 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.pro</mask>
       <mask>*.pr</mask>
       <mask>*.p</mask>
       <mask>*.jsp</mask>
@@ -36,6 +36,7 @@
       <mask>*.xs</mask>
       <mask>*.xsd</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
