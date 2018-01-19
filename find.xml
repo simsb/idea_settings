@@ -3,36 +3,37 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.Controller.</mask>
-      <mask>*.Controller.j</mask>
-      <mask>*.Controller.ja</mask>
-      <mask>*.Controller.java</mask>
-      <mask>*Controller.java</mask>
-      <mask>.java</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
-      <mask>.xml</mask>
-      <mask>*asp*.java</mask>
-      <mask>*as*.java</mask>
-      <mask>*a*.java</mask>
-      <mask>**.java</mask>
-      <mask>*T.java</mask>
-      <mask>*Te.java</mask>
-      <mask>*Tes.java</mask>
-      <mask>*Test.java</mask>
-      <mask>x</mask>
-      <mask>xm</mask>
-      <mask>xml</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.jsp</mask>
       <mask>*.js</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
+      <mask>*C</mask>
+      <mask>*Co</mask>
+      <mask>*Con</mask>
+      <mask>*Cont</mask>
+      <mask>*Contro</mask>
+      <mask>*Control</mask>
+      <mask>*Controll</mask>
+      <mask>*Controlle</mask>
+      <mask>*Controller</mask>
+      <mask>*Controller.</mask>
+      <mask>*Controller.j</mask>
+      <mask>*Controller.ja</mask>
+      <mask>*Controller.jav</mask>
+      <mask>*RController.java</mask>
+      <mask>*REController.java</mask>
+      <mask>*RESController.java</mask>
+      <mask>*RESTController.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsd</mask>
+      <mask>*.xml</mask>
+      <mask>*Controller.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
